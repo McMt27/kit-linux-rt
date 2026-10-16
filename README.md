@@ -23,7 +23,7 @@ Tu as récupéré une clé USB lors de la Fête de la Science ? Voici tout ce qu
 Pour installer d'un coup tous tes logiciels de base (VLC, LibreOffice, Fastfetch, etc.), ouvre un **Terminal** sur ton Linux et colle cette ligne :
 
 ```bash
-curl -sSL [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)McMt27/kit-linux-rt/main/post-install.sh | bash
+curl -sSL https://raw.githubusercontent.com/McMt27/kit-linux-rt/main/post-install.sh | bash
 ```
 
 --- 
